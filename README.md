@@ -3,7 +3,7 @@
 **Table of Contents**
 - [Overview](#header1)
 - [Analysis](#header2)
-- [Findings](header3)
+- [Findings](#header3)
 ---
 
 <a id="header1"></a>
